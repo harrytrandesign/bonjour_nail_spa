@@ -1,3 +1,8 @@
+---
+published-on: 15 August 2021
+title: Bonjour Nails-Spa
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/harrytrandesign/bonjour_nail_spa/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
