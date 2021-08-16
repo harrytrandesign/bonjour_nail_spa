@@ -8,5 +8,3 @@ css: style.css
 ![Our Services](https://raw.githubusercontent.com/harrytrandesign/bonjour_nail_spa/main/bonjour_services_two.jpeg "Services Menu 2")
 ![Our Services](https://raw.githubusercontent.com/harrytrandesign/bonjour_nail_spa/main/bonjour_services_three.jpeg "Services Menu 3")
 ![My Story](https://raw.githubusercontent.com/harrytrandesign/bonjour_nail_spa/main/bonjour_story.jpeg "My Story")
-![Wine List](https://raw.githubusercontent.com/harrytrandesign/bonjour_nail_spa/main/IMG_7681.png "Our Wine List")
-![Tea List](https://raw.githubusercontent.com/harrytrandesign/bonjour_nail_spa/main/IMG_7682.png "Our Tea List")
